@@ -1,4 +1,4 @@
-package hu.nive.ujratervezes.zarovizsga.kennel;
+package hu.nive.ujratervezes.zarovizsga.dogtypes;
 
 import javax.sql.DataSource;
 import java.sql.Connection;
